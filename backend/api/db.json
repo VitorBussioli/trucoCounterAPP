@@ -1,4 +1,16 @@
 {
-    "partidas": []
-  }
-  
+  "partidas": [
+    {
+      "id": "99bf",
+      "equipe1": {
+        "nome": "eai",
+        "pontos": 12
+      },
+      "equipe2": {
+        "nome": "professor",
+        "pontos": 0
+      },
+      "finalizado": true
+    }
+  ]
+}
